@@ -12,11 +12,11 @@ Welcome to my GitHub profile! 👋 I am passionate about leveraging data to driv
 
 ## 🛠️ Skills
 
-- **Data Analysis & Visualization**: Excel, Power BI, Tableau
+- **Data Analysis & Visualization**: Excel, Power BI, 
 - **Programming Languages**: Python, SQL
 - **Data Management**: Data Cleaning, Data Transformation, Database Management
 - **Business Intelligence**: Dashboard Development, Reporting, Data-Driven Decision Making
-- **Additional Tools**: VBA, Google Sheets, Jupyter Notebooks
+- **Additional Tools**: VSC, Google Sheets, Google data studio, Jupyter Notebooks
 
 ## 🎓 Education
 
