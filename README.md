@@ -1,3 +1,4 @@
+![github Banner](https://github.com/user-attachments/assets/f3bd5299-dfb1-4b9b-92cb-6752db5e8129)
 # Welcome to My GitHub Profile! 👋
 
 * Data Analyst | Microsoft Power BI | SQL Server | MS Excel | Python | I help companies unlock valuable insights and solve complex business challenges.*
