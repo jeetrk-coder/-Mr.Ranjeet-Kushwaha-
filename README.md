@@ -1,53 +1,31 @@
 ![github Banner](https://github.com/user-attachments/assets/f3bd5299-dfb1-4b9b-92cb-6752db5e8129)
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm RANJEET KUSHWAHA</h1>
+<h3 align="center">A passionate Data Analyst/ Business Analyst from India</h3>
 
-* Data Analyst | Microsoft Power BI | SQL Server | MS Excel | Python | I help companies unlock valuable insights and solve complex business challenges.*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetrk-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jeetrk-coder" /> </p>
 
-Welcome to my GitHub profile! 👋 I am passionate about leveraging data to drive informed decision-making and am on a journey to become a skilled data professional.
+- 🔭 I’m currently Looking for [A Data Analyst role](www.linkedin.com/in/ranjitkushwaha78)
 
-## 🔍 What I Do
+- 🌱 I’m currently learning **Machine learning and deep learning**
 
-- **Data Analysis:** Uncovering insights from complex datasets and transforming raw data into actionable information.
-- **Data Visualization:** Creating meaningful visualizations to communicate insights effectively.
+- 👨‍💻 All of my projects are available at [https://github.com/jeetrk-coder/Hotel_Booking_Cancellation_Excel_and_Power-BI_Project.git](https://github.com/jeetrk-coder/Hotel_Booking_Cancellation_Excel_and_Power-BI_Project.git)
 
-## 🛠️ Skills
+- 📝 I regularly write articles on [www.linkedin.com/in/ranjitkushwaha78](www.linkedin.com/in/ranjitkushwaha78)
 
-- **Data Analysis & Visualization**: Excel, Power BI, 
-- **Programming Languages**: Python, SQL
-- **Data Management**: Data Cleaning, Data Transformation, Database Management
-- **Business Intelligence**: Dashboard Development, Reporting, Data-Driven Decision Making
-- **Additional Tools**: VSC, Google Sheets, Google data studio, Jupyter Notebooks
+- 💬 Ask me about **Excel,Power BI, SQL**
 
-## 🎓 Education
+- 📫 How to reach me **| ranjeetkushwahainfo@gmail.com**
 
-**Bachelor of Technology in Mechanical Engineering**
-IPS Academy, Indore, India
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1Hkx7qJwPEH-sJJ2wVfY-2erDZXi4WQIt](https://drive.google.com/drive/folders/1Hkx7qJwPEH-sJJ2wVfY-2erDZXi4WQIt)
 
-## 🌐 Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ranjitkushwaha78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjitkushwaha78" height="30" width="40" /></a>
+</p>
 
-- **LinkedIn**: (www.linkedin.com/in/ranjitkushwaha78)
-- **Email**: ranjeetkushwahainfo@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-## 📫 Contact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetrk-coder&show_icons=true&locale=en&layout=compact" alt="jeetrk-coder" /></p>
 
-For inquiries or collaborations, feel free to reach out via [email](mailto:ranjeetkushwahainfo@gmail.com).
-
-## 🚀 Projects
-
-### 📊 Hotel Booking Cancellation Analysis
-![Screenshot 2024-12-11 154852](https://github.com/user-attachments/assets/be85b2f2-4a91-4901-8951-d8a7d91795a6)
-Analyzed hotel booking cancellation data to uncover key patterns and provide actionable insights. Utilized Excel for data cleaning, analysis, and visualization.
-
-### 🛒 E-commerce Performance Dashboard
-![proj_3](https://github.com/user-attachments/assets/036967ac-e99c-408c-943d-965c9484155d)
-Developed an interactive Power BI dashboard to visualize e-commerce store performance. Analyzed sales data to identify trends and inform business strategies.
-
-## 🌟 Highlights
-
-- Passionate about transforming data into actionable insights.
-- Strong problem-solving skills and a keen eye for detail.
-- Committed to continuous learning and professional development.
-
-!
-## 🙌 Let's Collaborate!
-I'm always open to new opportunities and collaborations. If you share a passion for data and problem-solving, let's connect!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetrk-coder&show_icons=true&locale=en" alt="jeetrk-coder" /></p>
